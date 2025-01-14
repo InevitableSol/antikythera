@@ -5,7 +5,7 @@
 
 
 ![AAK (The Solana Agent Kit) - The Toolkit Powering Antikythera and the Next Wave of Solana Agents](https://github.com/0xinevitable/antikythera/raw/main/.github/assets/aak-1.jpg)
-![Diagram for AAK](https://github.com/0xinevitable/antikythera/raw/main/.github/assets/aak-2.jpg)
+![Diagram for AAK](https://github.com/InevitableSol/antikythera/raw/main/.github/assets/aak-2.jpg)
 
 Antikythera will start building and using the Solana Agent Kit (AAK) from 2025
 
@@ -13,13 +13,13 @@ Antikythera will start building and using the Solana Agent Kit (AAK) from 2025
 
 Antikythera is a AI Agent which integrates accurate, real-time onchain data from various protocols and applications on the Solana Blockchain.
 
-![Antikythera vs Solana Assistant](https://github.com/0xinevitable/antikythera/raw/main/.github/assets/vs-aptos-assistant.jpg?v=3)
+![Antikythera vs Solana Assistant](https://github.com/InevitableSol/antikythera/raw/main/.github/assets/vs-aptos-assistant.jpg?v=3)
 
 Solana previously released the Solana Assistant earlier this year. However, this assistant faced limitations in practical use due to its inability to access real-time on-chain data beyond its pre-trained knowledge. These limitations became apparent even before considering interactions with actual DApps. For instance, the assistant struggled to answer basic informational questions about the ecosystem, such as identifying the protocol with the highest Total Value Locked (TVL) or listing the available applications.
 
 **In contrast, when Antikythera is asked the same question about top ecosystem projects, it provides a detailed markdown table ranking protocols by exact-figured TVL, including categories, logos, and URLs.**
 
-![Cover 2](https://github.com/0xinevitable/antikythera/raw/main/.github/assets/cover-2.png)
+![Cover 2](https://github.com/InevitableSol/antikythera/raw/main/.github/assets/cover-2.png)
 
 Antikythera is capable of handling a wide range of queries and requests related to the Solana blockchain. It can identify the best prices, arbitrage opportunities, yield opportunities, and current swap routes across various Solana protocols. It can even execute actions on behalf of users.
 
