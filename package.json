@@ -1,0 +1,15 @@
+{
+  "name": "antikythera",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/inevitable-dao/antikythera",
+  "author": "Junho Yeo <i@junho.io>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@4.5.0",
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "prettier": "^3.3.3"
+  }
+}
