@@ -4,7 +4,7 @@
 [Twitter](https://x.com/antikythera_sol)
 
 
-![AAK (The Solana Agent Kit) - The Toolkit Powering Antikythera and the Next Wave of Solana Agents](https://github.com/0xinevitable/antikythera/raw/main/.github/assets/aak-1.jpg)
+![AAK (The Solana Agent Kit) - The Toolkit Powering Antikythera and the Next Wave of Solana Agents](https://github.com/InevitableSol/antikythera/raw/main/.github/assets/aak-1.jpg)
 ![Diagram for AAK](https://github.com/InevitableSol/antikythera/raw/main/.github/assets/aak-2.jpg)
 
 Antikythera will start building and using the Solana Agent Kit (AAK) from 2025
